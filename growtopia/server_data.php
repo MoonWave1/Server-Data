@@ -1,0 +1,1 @@
+server|213.179.209.168 port|17198 loginurl|login.growtopiagame.com type|1 #maint|Under mainteance. beta_server|beta.growtopiagame.com beta_port|27003 beta_type|1 meta|defined RTENDMARKERBS1001
